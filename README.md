@@ -1,9 +1,5 @@
 # SS10 HW05: Đảm bảo thứ tự sự kiện với Kafka Partition Key
 
-**Sinh viên:** Dang Khanh An  
-**Lớp:** IT214  
-**Mã:** PTIT070
-
 ## 1. Bối cảnh
 
 Hệ thống StoreX phát sinh các sự kiện trạng thái đơn hàng vào topic `order-tracking`:
